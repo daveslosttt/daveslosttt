@@ -1,4 +1,4 @@
-### About Me
+# About Me
 Yo! I'm DTOG, a amateur Python developer.
 
 • I live in Atlanta, Georgia, US
@@ -15,7 +15,7 @@ Yo! I'm DTOG, a amateur Python developer.
 
 • My current WIP project is Discord Bot Library, a bot that serves as an all-in-one bot and a coding base/lesson bot.
 
-### Repos
+# Repos
 [TBKBot](https://github.com/TBKBot/TBKBot.pyDiscord) - A bot for a discord I'm admin in. Coded in discord.py.
 
 [DTOG Bot](https://github.com/DontTreadOnGerman/DTOG-Bot) - A former bot I was developing, code repurposed toward another bot.
