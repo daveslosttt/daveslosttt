@@ -22,5 +22,10 @@ Yo! I'm DTOG, a amateur Python developer.
 
 [InterServer Bot](https://github.com/DontTreadOnGerman/InterServer-Bot) - A VERY bare bones bot for another Discord I owned.
 
-[Discord Bot Library](https://github.com/DontTreadOnGerman/DBL-Bot) - A code base and code lesson bot, mixed with an all-in-one bot.
+[Compass](https://github.com/Compass-Bot-Team/Compass) - A very expansive all-in-one bot coded in discord.py.
+
+[compasswebsite.dev](https://github.com/Compass-Bot-Team/Compass-Bot-Team.github.io) - The website for Compass Bot (yes I spent money)
+
+# Github Stats
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DontTreadOnGerman&count_private=true)
 -->
