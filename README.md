@@ -13,7 +13,7 @@ Yo! I'm DTOG, a amateur Python developer.
 
 • I code all of my Discord bots in discord.py.
 
-• My current WIP project is Discord Bot Library, a bot that serves as an all-in-one bot and a coding base/lesson bot.
+• MI am the owner of Compass Bot.
 
 # Repos
 [TBKBot](https://github.com/TBKBot/TBKBot.pyDiscord) - A bot for a discord I'm admin in. Coded in discord.py.
