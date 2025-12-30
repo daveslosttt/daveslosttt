@@ -41,11 +41,5 @@ Independent election forecasting and political data analysis platform.
 
 ---
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daveslosttt&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daveslosttt&layout=compact&theme=github_dark)
-
----
-
 ## Interests
 Data science • forecasting • software systems • technology • fitness • design
