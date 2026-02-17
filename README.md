@@ -2,7 +2,7 @@
 
 **Data science • forecasting • software development**
 
-I build data-driven models to analyze political and demographic trends, with an emphasis on accuracy, transparency, and real-world impact. I am the founder of **MapWiseResearch**, an independent forecasting project focused on U.S. elections and public-facing data analysis.
+I’m a student based in Atlanta focused on political data science, forecasting, and building tools that make complex election and demographic data easier to understand. I mainly build data-driven models to analyze political and demographic trends, with an emphasis on accuracy, transparency, and real-world impact. I am the founder of **MapWiseResearch**, an independent forecasting project focused on U.S. elections and public-facing data analysis.
 
 ---
 
